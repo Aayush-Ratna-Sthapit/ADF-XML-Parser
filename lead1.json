@@ -1,0 +1,134 @@
+{
+    "prospect": {
+        "status": "new"
+    },
+    "id": {
+        "sequence": "1",
+        "source": "ABC",
+        "id": null
+    },
+    "vehicle": {
+        "interest": "buy",
+        "status": "used",
+        "id": {
+            "sequence": null,
+            "source": null
+        },
+        "year": "2023",
+        "make": "Hyundai",
+        "model": "i30",
+        "vin": null,
+        "stock": null,
+        "trim": null,
+        "doors": null,
+        "bodystyle": null,
+        "odometer": {
+            "status": null,
+            "units": null,
+            "odometer": null
+        },
+        "condition": null,
+        "colorcombination": {
+            "interiorcolor": null,
+            "exteriorcolor": null,
+            "preference": null
+        },
+        "imagetag": {
+            "width": null,
+            "height": null,
+            "alttext": null,
+            "imagetag": null
+        },
+        "price": {
+            "type": null,
+            "currency": null,
+            "delta": null,
+            "relativeto": null,
+            "source": null,
+            "price": null
+        },
+        "pricecomments": null,
+        "option": {
+            "optionname": null,
+            "manufacturercode": null,
+            "stock": null,
+            "weighting": null,
+            "price": null
+        },
+        "finance": {
+            "method": null,
+            "amount": null,
+            "balance": null
+        },
+        "comments": null
+    },
+    "customer": null,
+    "vendor": {
+        "id": {
+            "sequence": null,
+            "source": null
+        },
+        "vendorname": "Approval Genie",
+        "url": null,
+        "contact": {
+            "primarycontact": null,
+            "name": {
+                "part": null,
+                "type": null,
+                "name": "John B"
+            },
+            "email": {
+                "preferredcontact": null,
+                "email": "john@approvalgenie.ca"
+            },
+            "phone": {
+                "type": null,
+                "time": null,
+                "preferredcontact": null,
+                "phone": "John B"
+            },
+            "address": {
+                "type": null,
+                "street": {
+                    "street": null,
+                    "line": null
+                },
+                "apartment": null,
+                "city": null,
+                "regioncode": null,
+                "postalcode": null,
+                "country": null
+            }
+        }
+    },
+    "provider": {
+        "id": {
+            "sequence": null,
+            "source": null
+        },
+        "name": {
+            "part": "full",
+            "type": "business",
+            "name": "PROSPECT"
+        },
+        "service": null,
+        "url": "leadprovider.domain.com",
+        "email": {
+            "preferredcontact": "1",
+            "email": "leadprovideremail@domain.com"
+        },
+        "phone": {
+            "type": "business",
+            "time": null,
+            "preferredcontact": null,
+            "phone": "PROSPECT"
+        },
+        "contact": {
+            "primarycontact": null,
+            "name": null,
+            "email": null,
+            "phone": null,
+            "address": null
+        }
+    }
+}
